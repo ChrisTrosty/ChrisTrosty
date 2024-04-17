@@ -1,3 +1,4 @@
-Hello.
+# Christian Trost
+I'm a student attending Sask Polytechnic and studying Interactive Design and Technology.
 
-You are currently reading this.
+- [linkedin.com/in/christrosty](https://www.linkedin.com/in/christrosty/)
