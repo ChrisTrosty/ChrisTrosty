@@ -1,4 +1,4 @@
 # Christian Trost
-I'm a student attending Sask Polytechnic and studying Interactive Design and Technology.
+Interactive Design & Technology Student @ Saskatchewan Polytechnic.
 
 - [linkedin.com/in/christrosty](https://www.linkedin.com/in/christrosty/)
